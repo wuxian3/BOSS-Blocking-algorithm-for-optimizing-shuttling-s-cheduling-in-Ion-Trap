@@ -1,6 +1,7 @@
 # TILT Simulation Ver3
 
 This directory is a release-oriented version of the TILT simulation project.
+Source code of https://arxiv.org/pdf/2412.03443
 
 ## Overview
 
