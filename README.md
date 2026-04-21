@@ -68,7 +68,7 @@ Available arguments:
 - `--qb-num`: number of qubits
 - `--block-size`: execution block size
 - `--gate-model`: one of `Duan`, `Trout`, `PM`
-- `--application`: one of `QASM`, `QFT`, `QAOA`, `RCS`, `BV`, `Adder`
+- `--application`: one of `QASM`
 - `--print-layout`: print intermediate tape layout output
 - `--json`: print results in JSON format
 
